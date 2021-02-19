@@ -11,8 +11,8 @@ This application shows the weather for current day and next 5 days based on the 
 
 
 ## Screenshots of the application
-![Home test ](./assets/1.png)
-![Home test ](./assets/2.png)
+![Home test ](./Assets/1.png)
+![Home test ](./Assets/2.png)
 
 
 
