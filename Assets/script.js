@@ -8,7 +8,7 @@ var apiKey = "6d34cd211ae31303402ede01afd13c60";
 // Function that will search the value of city on click
 searchButton.click(function() {
 var cityInput = $("#search-value").val();
-var urlToday = "http://api.openweathermap.org/data/2.5/weather?q=" + cityInput + "&appid=" + apiKey + "&units=imperial";
+var urlToday = "https://api.openweathermap.org/data/2.5/weather?q=" + cityInput + "&appid=" + apiKey + "&units=imperial";
 
 var clickCount = 0;
 if (cityInput == "") {
