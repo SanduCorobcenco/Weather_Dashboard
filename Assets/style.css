@@ -1,0 +1,25 @@
+
+#card_body {
+    display: inline-grid;
+    justify-content: end;
+    margin-right: 1%;  
+    background-color: hsla(241, 100%, 50%, 0.65);
+    
+    padding: 5px 5px 5px 5px;
+
+  
+  transition: 0.3s;
+  border-radius: 5px; /* 5px rounded corners */
+}
+
+#card_body:hover {
+    box-shadow: 16px 16px 16px 16px rgba(199, 151, 151, 0.35);
+}
+
+ul {
+margin-left: 12px;
+}
+
+
+
+   
